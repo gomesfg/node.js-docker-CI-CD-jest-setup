@@ -1,0 +1,27 @@
+{
+  "name": "setup-nodejs",
+  "version": "0.0.1",
+  "description": "projeto de demonstração",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gomesfg/setup-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "demo"
+  ],
+  "author": "Felipe Eduardo Gomes <felipe.edug@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gomesfg/setup-nodejs/issues"
+  },
+  "homepage": "https://github.com/gomesfg/setup-nodejs#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
